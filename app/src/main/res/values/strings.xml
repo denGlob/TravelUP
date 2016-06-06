@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">TravelUP</string>
+
+    <!--URL for Firebase references-->
+
+    <string name="firebase_url">https://fiery-heat-5209.firebaseio.com</string>
+
+    <!--New login strings using firebase example-->
+
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_google">Login with Google+</string>
+    <string name="login_with_twitter">Login with Twitter</string>
+    <string name="login_with_password">Login</string>
+    <string name="login_anonymously">Login Anonymously</string>
+
+    <!--Google Maps APIs keys for android application-->
+
+    <string name="google_maps_api_key">AIzaSyCv_lFYKCgmRy7-JXfx2z4U56UZAcTja6w</string>
+    <string name="google_maps_directions_api_key">AIzaSyCv_lFYKCgmRy7-JXfx2z4U56UZAcTja6w</string>
+    <string name="google_maps_places_api_key">AIzaSyCv_lFYKCgmRy7-JXfx2z4U56UZAcTja6w</string>
+    <string name="google_server_api_key">AIzaSyAyxib0PEa6EYnSelaMyRjra2cTDt0tspI</string>
+
+    <!-- Strings related to login -->
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_user">User Name</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="prompt_confirm_password">Confirm password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="accept">Accept</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_unconfirmed_password">Passwords dont matches</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_register">Registration</string>
+    <string name="facebook_app_id">1605015166410628</string>
+    <string name="twitter_consumer_key">GqXAKGdC4cbI9N0rfmjQfqlvy</string>
+    <string name="twitter_consumer_secret">m2GGuctrEZX7QFUs1V0aNb2D6rHFz267Onb6oJHwGY0m1aAnHj</string>
+    <string name="title_activity_user">UserActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
